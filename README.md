@@ -5,17 +5,17 @@
 ## Web Store Links
 TODO: ADD TO WEB STORE AND ADD LINKS
 ## Description
-Simple _chromium_ based extension, adds ability to search highlighted text in specific search engine via browser context menu.
+Simple *chromium* based extension, adds ability to search highlighted text in specific search engine via browser context menu.
 
 ## Search Engines
-	__Google__
-	__Bing__
-	__Yahoo!__
-	__DuckDuckGo__
-	__Yandex__
-	__Brave__
-	__Baidu__
+	**Google**
+	**Bing**
+	**Yahoo!**
+	**DuckDuckGo**
+	**Yandex**
+	**Brave**
+	**Baidu**
 
 ### Author
-*Daniilas Komogorcevas, 2025*	
+*Daniilas Komogorcevas 2025*	
 
