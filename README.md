@@ -1,4 +1,5 @@
 <img src="images/icon.png" alt="Extension icon" align="center">
+
 # Simple Context Menu Search Engines
 
 ## Web Store Links
