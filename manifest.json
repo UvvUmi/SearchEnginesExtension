@@ -1,11 +1,11 @@
-{
+{	
+	"manifest_version": 3,
+	"name": "Simple Context Menu Search Engines",
+	"description": "Highlight text and choose a search engine to query in context menu",
+	"version": "1.0.0",
     "background": {
        "service_worker": "script.js"
     },
-    "description": "Highlight text and choose a search engine in context menu",
-    "manifest_version": 3,
-    "name": "Simple Context Menu Search",
-    "permissions": [ "contextMenus" ],
-    "version": "1.0.0"
+    "permissions": [ "contextMenus" ]
  }
  
