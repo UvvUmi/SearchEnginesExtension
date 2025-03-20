@@ -6,6 +6,10 @@
     "background": {
        "service_worker": "script.js"
     },
-    "permissions": [ "contextMenus" ]
+    "permissions": [ "contextMenus" ],
+	"icons" : {
+		"48": "icon.png",
+		"128": "icon.png"
+	}
  }
  
