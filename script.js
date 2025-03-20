@@ -1,6 +1,6 @@
 // 2025-03 Daniilas Komogorcevas https://github.com/UvvUmi
-//This part adds context menu buttons
 
+//This part adds context menu buttons
 const titles = ["Google", "Bing", "Yahoo!", "DuckDuckGo", "Yandex", "Brave", "Baidu"];
 const ids = ["google", "bing", "yahoo", "duck", "yandex", "brave", "baidu"];
 
