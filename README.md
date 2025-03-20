@@ -1,11 +1,11 @@
-<img src="images/icon.png" alt="Extension icon" align="center">
+<p align="center"><img src="images/icon.png" alt="Extension icon"></p>
 
 # Simple Context Menu Search Engines
 
 ## Web Store Links
 TODO: ADD TO WEB STORE AND ADD LINKS
 ## Description
-Simple _chromium_ based extension, adds ability to search highlighted text in specific search engine via browser context menu.
+Simple *chromium* based extension, adds ability to search highlighted text in specific search engine via browser context menu.
 
 ## Search Engines
 	__Google__
@@ -17,5 +17,5 @@ Simple _chromium_ based extension, adds ability to search highlighted text in sp
 	__Baidu__
 
 ### Author
-*Daniilas Komogorcevas, 2025*	
+*Daniilas Komogorcevas 2025*	
 
