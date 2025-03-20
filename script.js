@@ -1,49 +1,17 @@
 // 2025-03 Daniilas Komogorcevas https://github.com/UvvUmi
 //This part adds context menu buttons
+
+const titles = ["Google", "Bing", "Yahoo!", "DuckDuckGo", "Yandex", "Brave", "Baidu"];
+const ids = ["google", "bing", "yahoo", "duck", "yandex", "brave", "baidu"];
+
 chrome.runtime.onInstalled.addListener(() => {
-  
-  chrome.contextMenus.create({
-    title: "Google",
-    contexts: ["selection"],
-    id: "google",
-  });
-  
-  chrome.contextMenus.create({
-	title: "Bing",
-	contexts: ["selection"],
-	id: "bing",
-  });
-
-  chrome.contextMenus.create({
-    title: "Yahoo!",
-    contexts: ["selection"],
-    id: "yahoo",
-  });
-  
-  chrome.contextMenus.create({
-    title: "DuckDuckGo",
-    contexts: ["selection"],
-    id: "duck",
-  });
-
-  chrome.contextMenus.create({
-    title: "Yandex",
-    contexts: ["selection"],
-    id: "yandex",
-  });
-
-  chrome.contextMenus.create({
-    title: "Brave",
-    contexts: ["selection"],
-    id: "brave",
-  });
-
-  chrome.contextMenus.create({
-    title: "Baidu",
-    contexts: ["selection"],
-    id: "baidu",
-  });
-
+  titles.forEach((engineTitle, index) => {
+    chrome.contextMenus.create({
+      title: engineTitle,
+      contexts: ["selection"],
+      id: ids[index],
+    })
+  }) 
 });
 
 //This part is responsible for logic
