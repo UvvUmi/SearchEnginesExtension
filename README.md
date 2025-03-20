@@ -1,4 +1,4 @@
-<p align="center"><img src="icon.png" alt="Extension icon"></p>
+<p align="center"><img src="icon.png" width="48" alt="Extension icon"></p>
 
 # Simple Context Menu Search Engines
 
