@@ -8,7 +8,10 @@
     },
     "permissions": [ "contextMenus" ],
 	"icons" : {
-		"512": "icon.png"
+		"16": "icons/16_icon.png",
+		"32": "icons/32_icon.png",
+		"48": "icons/48_icon.png",
+		"128": "icons/128_icon.png"
 	}
  }
  
