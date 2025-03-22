@@ -2,8 +2,6 @@
 
 # Simple Context Menu Search Engines
 
-## Web Store Links
-TODO: ADD TO WEB STORE AND ADD LINKS
 ## Description
 Simple *chromium* based extension, adds ability to search highlighted text in specific search engine via browser context menu.
 
@@ -15,7 +13,4 @@ Simple *chromium* based extension, adds ability to search highlighted text in sp
 	__Yandex__
 	__Brave__
 	__Baidu__
-
-### Author
-*Daniilas Komogorcevas 2025*	
 
