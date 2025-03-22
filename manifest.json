@@ -1,6 +1,6 @@
 {	
 	"manifest_version": 3,
-	"name": "Search Engines",
+	"name": "Context Menu Search Engines",
 	"description": "Highlight text and choose a search engine to query in context menu",
 	"version": "1.0.0",
     "background": {
